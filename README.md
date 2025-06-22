@@ -1,4 +1,4 @@
-# online-voting
+# Online voting System
 Secure Online Voting System
 > Pre-requsites
 * PhP
